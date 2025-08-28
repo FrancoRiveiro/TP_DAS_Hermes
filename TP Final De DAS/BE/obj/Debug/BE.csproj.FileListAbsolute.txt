@@ -4,3 +4,9 @@ C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BE\obj\De
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BE\obj\Debug\BE.dll
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BE\obj\Debug\BE.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\bin\Debug\BE.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\bin\Debug\BE.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\obj\Debug\BE.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BE\obj\Debug\BE.pdb

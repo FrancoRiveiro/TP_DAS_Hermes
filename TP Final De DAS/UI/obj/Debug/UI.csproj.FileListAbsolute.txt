@@ -14,3 +14,20 @@ C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\UI\bin\De
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\UI\bin\Debug\BLL.pdb
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\UI\obj\Debug\UI.exe.config
 C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.exe.config
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.Principal.resources
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.exe
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\UI.exe.config
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\UI.exe
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\UI.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\BE.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\BLL.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\BE.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\bin\Debug\BLL.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\agust\source\repos\TP_DAS_Hermes\TP Final De DAS\UI\obj\Debug\UI.frCatalogo.resources
